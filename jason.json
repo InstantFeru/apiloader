@@ -1,0 +1,14 @@
+[
+    {"nombre":"Rathalos",
+    "Raza":"Humano",
+    "Clase":"Mago"},
+    {"nombre": "Estherlen",
+     "Raza": "Elfo",
+     "Clase":"Mago"},
+    {"nombre": "Lydia",
+     "Raza": "Elfo",
+     "Clase":"Ladrón"},
+     {"nombre": "Jack",
+        "Raza": "Enano",
+        "Clase":"Guerrero"}
+]
